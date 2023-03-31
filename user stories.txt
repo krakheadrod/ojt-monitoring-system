@@ -1,0 +1,8 @@
+1. [✓] - 3500(New Feature) = Ojt Coordinator - can upload CSV or .XLS file instead of manually encoding student
+2. [✓] - 2000(New Feature)  = Student Module - can display their link for portfolio
+3. [] - 3500(New Feature) = Individual Assignment of Task By Section (Ex. "Select All Button")
+4. [] - 2500(New Feature) = Add Section para sa task submitted (Filters)
+5. [] - 2500(New Feature) = Add Evaluation from the company to students. This can be seen also by the OJT Coordinator
+6. [] - 3500(New Feature) = Exchange of Communication between company and the OJT Coordinator
+7. [] - 1000(New Feature) = Student War to OJT Coordinator (Task Submission)
+TOTAL = 18,500
